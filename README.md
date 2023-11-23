@@ -1,16 +1,23 @@
-### Hi there 👋 I'm Abdul Rahman
+# Abdul Rahman
 
-<!--
-**arkniazi/arkniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 Email: arkniazi.dev@gmail.com  
+🔗 LinkedIn: [arkniazi](https://www.linkedin.com/in/arkniazi/)
 
-Here are some ideas to get you started:
+Hi there! 👋 I'm Abdul Rahman, a passionate Full Stack Developer with expertise in a variety of technologies. I love building robust and scalable web applications, and I'm always eager to learn and explore new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Backend:** Rails, Laravel
+- **Frontend:** ReactJS, VueJS
+- **Other Technologies:** TypeScript, GraphQL, Docker, AWS
+
+## Current Projects
+
+🚀 I'm currently working on [hestur.io](https://hestur.io).
+
+Feel free to check out my repositories and contributions. If you have any questions or want to collaborate, don't hesitate to reach out!
+
+## Connect with Me
+
+- 📧 Email: arkniazi.dev@gmail.com
+- 🔗 LinkedIn: [arkniazi](https://www.linkedin.com/in/arkniazi/)
