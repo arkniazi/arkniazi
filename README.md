@@ -18,7 +18,7 @@ Hi there! 👋 I'm Abdul Rahman, a passionate Full Stack Developer with expertis
 
 ## Current Projects
 
-🚀 I'm currently working on [hestur.io](https://hestur.io), an exciting project that [briefly describe what hestur.io is about].
+🚀 I'm currently working on [hestur.io](https://hestur.io)
 
 Feel free to check out my repositories and contributions. If you have any questions or want to collaborate, don't hesitate to reach out!
 
